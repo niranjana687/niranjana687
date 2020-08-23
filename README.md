@@ -1,5 +1,5 @@
 ### Hi there 👋
-### [![Niranjana's github stats](https://github-readme-stats.vercel.app/api?username=niranjana687&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### [![Niranjana's github stats](https://github-readme-stats.vercel.app/api?username=niranjana687&count_private=true&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 I am <b> Niranjana </b>, a computer science and engineering undergrad.
 
