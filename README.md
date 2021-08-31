@@ -2,7 +2,7 @@
 
 🧚🏽‍♀️ **she/her**<br>
 🧚🏽‍♀️ **Fourth Year Engineering Student**<br>
-🧚🏽‍♀️ **Microsoft Learn Student Ambassador<br>
+🧚🏽‍♀️ **Microsoft Learn Student Ambassador**<br>
 
 ---
 
