@@ -1,16 +1,29 @@
-### Hi there 👋
-<p>I am <b> Niranjana </b>, a computer science and engineering undergrad.</p>
+# Hi, I'm Niranjana !
 
+🧚🏽‍♀️ **she/her**<br>
+🧚🏽‍♀️ **Fourth Year Engineering Student**<br>
+🧚🏽‍♀️ **Microsoft Learn Student Ambassador<br>
 
+---
 
-### [![Niranjana's github stats](https://github-readme-stats.vercel.app/api?username=niranjana687&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niranjana687&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+I mainly work with Javascript and Python. <br>
+I also like challenging myself with new projects, and learning new technologies! 
 
-<!--
-**niranjana687/niranjana687** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
- 📫 How to reach me: niranjana687@gmail.com
+### Languages
+⚡ Javascript
+⚡ Java
+⚡ C
+⚡ Python
+⚡ Rust
 
--->
- 
- 
+---
+
+![Niranjana's github stats](https://github-readme-stats.vercel.app/api?username=niranjana687&show_icons=true&theme=dark)
+
+---
+<h3>Reach Me At</h3>
+<p float="left"><img height="25" align="left" src="https://www.flaticon.com/svg/static/icons/svg/3617/3617143.svg"> <a href="mailto:niranjana.mec@gmail.com">niranjana.mec@gmail.com</a></p>
+<p float="left"><img height="25" align="left" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg"/> <a href="https://twitter.com/niran_jana">@niran_jana</a></p>
+<p float="left"><img height="25" align="left" src="https://www.flaticon.com/svg/static/icons/svg/124/124011.svg"/> <a href="https://linkedin.com/in/niranjana687">Niranjana</a></p>
